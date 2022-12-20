@@ -1,0 +1,203 @@
+{
+  "main": {
+    "id": "fda66e697f15d395",
+    "type": "split",
+    "children": [
+      {
+        "id": "07c40ea8c3e99bd6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0765e7f6534598ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Study/2022-12-19.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "862410bcae79f4ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/01_NETWORK.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ec74abca58d28c19",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Network/02_Protocol.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8cfd6d0b85e1cbe1",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "8733ca642e13b404",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be666323d0ac65a1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "cf487567b4e1c9bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "b7d0c410dee94368",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "981a12be32e98c99",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "315a045535988fb1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#프로토콜",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "59a55f9891bd78d8",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "48ce66d121baf1d2",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccbd3de61d98a686",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bfd73cb1a730f6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "50b772cca75bda1b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f94d503189b35bfb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c42323a1eebc1928",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "be666323d0ac65a1",
+  "lastOpenFiles": [
+    "Network/02_Protocol.md",
+    "README.md",
+    "Network/01_NETWORK.md",
+    "Network/01 NETWORK.md",
+    "Study/2022-12-19.md",
+    "Jargon/Cloud.md",
+    "Jargon/IaaS.md",
+    "Jargon/PaaS.md",
+    "Jargon/SaaS.md",
+    "K8s/쿠버네티스.md"
+  ]
+}
